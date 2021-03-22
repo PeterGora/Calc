@@ -1,2 +1,2 @@
-# taxCalc
-Canadian tax bracket calculator 2020
+# Calc
+Simple calculator using Python with Tkinter
