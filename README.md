@@ -5,3 +5,8 @@ I created this .py file to see how Tkinter works ( positioning on grid, function
 
 
 ![calculator](https://github.com/PeterGora/taxCalc/blob/master/calc1.png?raw=true)
+
+
+# References:
+
+<a href ="https://docs.python.org/3/library/tkinter.html#module-tkinter"> Tkinter</a>
